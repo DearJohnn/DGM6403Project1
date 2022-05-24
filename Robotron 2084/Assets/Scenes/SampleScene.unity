@@ -1042,15 +1042,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2935351991255464596, guid: 5ea30c838d24e94428cfdc063ff7c7bc, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2935351991255464596, guid: 5ea30c838d24e94428cfdc063ff7c7bc, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2935351991255464596, guid: 5ea30c838d24e94428cfdc063ff7c7bc, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2935351991255464596, guid: 5ea30c838d24e94428cfdc063ff7c7bc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1343,19 +1343,6 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 9162525080130612815, guid: 5ea30c838d24e94428cfdc063ff7c7bc, type: 3}
   m_PrefabInstance: {fileID: 1308903559}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1505664936
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1505664933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42f8e9914735644459e7835a6cbbdff6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 4
 --- !u!50 &1505664937
 Rigidbody2D:
   serializedVersion: 4
